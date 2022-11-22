@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Zabiea
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning new languages
-- 💞️ I’m looking to collaborate on nothing(just practising)
-- 📫 How to reach me? i don't know
+- 📫 How to reach me? https://www.linkedin.com/in/sukanya-roy-188015235/
 
 <!---
 Zabiea/Zabiea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
